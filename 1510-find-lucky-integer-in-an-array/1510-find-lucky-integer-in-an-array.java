@@ -20,16 +20,15 @@ class Solution {
         for(int i=0;i<len;i++){
             freq[arr[i]]++;
         }
-        int maxfreq=-1;
-        for(int i=1;i<501;i++){
+        for(int i=500;i>0;i--){
             if(freq[i]==i){
-                maxfreq=Math.max(maxfreq,i);
+                return i;
             }
         }
 
 
         // return luckyint;
 
-        return maxfreq;
+        return -1;
     }
 }
