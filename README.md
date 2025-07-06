@@ -9,12 +9,14 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
