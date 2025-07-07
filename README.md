@@ -11,6 +11,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3778-transform-array-by-parity](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,10 +32,12 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3778-transform-array-by-parity](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3778-transform-array-by-parity](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
