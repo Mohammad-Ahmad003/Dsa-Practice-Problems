@@ -11,19 +11,24 @@ class Solution {
              //    freq[nums[i]]++;
             }
         }
-        // int st=0;int end=nums.length-1;int temp=0;
-        // while(st<=end){
-        //     if(nums[end]==0){
-        //         temp=nums[end];
-        //         nums[end]=nums[st];
-        //         nums[st]=temp;
-        //         st++;
-        //         end--;
-              
-        //     }
-        //     end--;
-        // }
-         Arrays.sort(nums);
+        int st=0;int end=nums.length-1;int temp=0;
+        while(st<=end){
+            if(nums[st]==0){
+                st++;
+            }
+            else if (nums[end]==1){
+                end--;
+            }
+            else{
+                temp=nums[end];
+                nums[end]=nums[st];
+                nums[st]=temp;
+                st++;
+                end--; 
+            }
+            
+        }
+        //  Arrays.sort(nums);
         return nums;
         
     }
