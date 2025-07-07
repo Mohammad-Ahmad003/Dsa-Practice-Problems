@@ -20,6 +20,7 @@
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -28,6 +29,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3778-transform-array-by-parity](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
