@@ -27,6 +27,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -50,6 +52,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
