@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0078-subsets) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -68,5 +69,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0078-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
