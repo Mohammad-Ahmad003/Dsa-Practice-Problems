@@ -24,6 +24,7 @@
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1945-finding-the-users-active-minutes](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1945-finding-the-users-active-minutes) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -39,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -54,6 +56,7 @@
 ## Counting
 |  |
 | ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
