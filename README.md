@@ -12,6 +12,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1945-finding-the-users-active-minutes](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1945-finding-the-users-active-minutes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2556-convert-the-temperature) |
@@ -109,5 +111,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
