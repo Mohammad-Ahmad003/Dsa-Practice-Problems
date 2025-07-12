@@ -80,6 +80,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
+| [2083-three-divisors](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -111,6 +112,11 @@
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2491-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
