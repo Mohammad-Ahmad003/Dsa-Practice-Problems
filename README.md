@@ -79,6 +79,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
+| [2491-smallest-even-multiple](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2556-convert-the-temperature) |
 ## Simulation
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
