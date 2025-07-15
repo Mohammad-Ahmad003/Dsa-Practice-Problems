@@ -4,7 +4,10 @@ class Solution {
         int vc=0,cc=0,dig=0,alphanum=0;
         for(int i=0;i<word.length();i++){
             char ch=word.charAt(i);
-           if(isVowel(ch)){
+            if(ch=='@' || ch=='#'||ch=='$'){
+            return false;
+           }
+           else if(isVowel(ch)){
             vc++;
            }
            else if(isConsonant(ch)){
@@ -13,11 +16,8 @@ class Solution {
            else if(ch>='0' && ch<='9'){
             dig++;
            }
-           else if(ch=='@' || ch=='#'||ch=='$'){
-            alphanum++;
-           }
         }
-        if(vc>0 && cc>0 && (dig>=0 && alphanum==0 )){
+        if(vc>0 && cc>0 && (dig>=0)){
             return true;
         }
         return false;
