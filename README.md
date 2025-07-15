@@ -45,6 +45,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3396-valid-word](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
