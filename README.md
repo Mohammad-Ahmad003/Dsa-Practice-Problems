@@ -17,6 +17,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3778-transform-array-by-parity](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0005-longest-palindromic-substring) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Math
 |  |
 | ------- |
