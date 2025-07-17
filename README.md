@@ -14,6 +14,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1945-finding-the-users-active-minutes](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1945-finding-the-users-active-minutes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Number Theory
 |  |
