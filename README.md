@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0078-subsets) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -28,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
+| [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -46,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
+| [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
