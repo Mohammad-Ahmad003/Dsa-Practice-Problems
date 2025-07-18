@@ -44,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -76,12 +77,14 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0392-is-subsequence](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0392-is-subsequence) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Math
 |  |
