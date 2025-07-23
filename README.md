@@ -55,6 +55,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3396-valid-word](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3396-valid-word) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Number Theory
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
