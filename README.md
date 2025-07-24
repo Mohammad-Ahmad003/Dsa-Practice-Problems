@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0078-subsets) |
+| [0134-gas-station](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0134-gas-station) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
@@ -130,6 +131,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0134-gas-station) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
