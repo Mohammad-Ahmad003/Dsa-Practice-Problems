@@ -36,21 +36,40 @@ class Solution {
         // } 
         // return maxlen;
 
-        int arr[]= new int[256];
-        int beg=0;
-        int len=0;
-        for(int i=0;i<s.length();i++){
-            int ch=s.charAt(i);
-            arr[ch]++;
+        // int arr[] = new int[256];
+        // int beg=0;
+        // int len=0;
+        // for(int i=0;i<s.length();i++){
+        //     int ch=s.charAt(i);
+        //     arr[ch]++;
 
-            while(arr[ch]>1){
-                arr[s.charAt(beg)]--;
-                beg++;
-            }
-            len=Math.max(len,i-beg+1);
+        //     while(arr[ch]>1){
+        //         arr[s.charAt(beg)]--;
+        //         beg++;
+        //     }
+        //     len=Math.max(len,i-beg+1);
 
+        // }
+        // return len;
+
+        int map[]=new int[256];
+        for(int i=0;i<256;i++){
+            map[i]=-1;
         }
-        return len;
-        
+        int l=0;int r=0,len=s.length();
+        int slen=0;
+        int maxlen=0;
+        while(r<len){
+            if(map[s.charAt(r)]!=-1){
+                if(map[s.charAt(r)]>=l){
+                    l=map[s.charAt(r)]+1;
+                }
+            }
+            slen=r-l+1;
+            maxlen=Math.max(slen,maxlen);
+            map[s.charAt(r)]=r;
+            r++;
+        }
+        return maxlen;
     }
 }
