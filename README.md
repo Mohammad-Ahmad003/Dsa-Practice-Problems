@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0134-gas-station) |
+| [0485-max-consecutive-ones](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
