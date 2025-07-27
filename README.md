@@ -12,6 +12,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
+| [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -154,6 +156,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
@@ -168,4 +171,8 @@
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
