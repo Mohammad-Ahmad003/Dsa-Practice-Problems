@@ -21,6 +21,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0078-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
