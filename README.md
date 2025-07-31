@@ -10,6 +10,7 @@
 | [0134-gas-station](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0134-gas-station) |
 | [0485-max-consecutive-ones](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0940-fruit-into-baskets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -36,6 +37,7 @@
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -133,6 +135,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
