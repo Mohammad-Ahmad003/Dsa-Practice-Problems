@@ -30,6 +30,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3778-transform-array-by-parity](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -181,8 +183,17 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
