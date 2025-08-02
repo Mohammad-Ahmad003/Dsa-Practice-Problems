@@ -41,6 +41,7 @@
 | [0940-fruit-into-baskets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1945-finding-the-users-active-minutes](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1945-finding-the-users-active-minutes) |
@@ -64,6 +65,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -139,6 +141,7 @@
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
