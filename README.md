@@ -36,6 +36,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0940-fruit-into-baskets) |
@@ -59,6 +60,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0952-word-subsets) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1046-max-consecutive-ones-iii) |
