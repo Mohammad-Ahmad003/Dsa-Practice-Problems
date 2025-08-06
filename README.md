@@ -24,6 +24,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -49,6 +50,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mohammad-Ahmad003/Dsa-Practice-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
